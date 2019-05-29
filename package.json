@@ -1,0 +1,16 @@
+{
+  "name": "digistories-generator",
+  "version": "1.0.0",
+  "description": "A script for generating story-files for our Pepper DigiStories app.",
+  "src": "src/index.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juho Salli <juho.salli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  }
+}
